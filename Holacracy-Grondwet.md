@@ -223,11 +223,11 @@ Elke Cirkel verkiest standaard een Rep Link naar zijn Supercirkel. Echter, deze 
 
 Een Cirkel kan een **‘Cross Link-Domeinafspraak’** maken om een entiteit of groep uit te nodigen om deel te nemen aan het Governance-Proces en het werk van een andere Cirkel. De entiteit of groep die wordt uitgenodigd om deel te nemen is de **‘Gelinkte Entiteit’**. Deze kan van buiten de organisatie zijn, of het kan een andere Rol of Cirkel in de organisatie zijn. De Cirkel die deze link krijgt is de **‘Doelcirkel’** en moet de Cirkel zijn die de Cross Link-Domeinafspraak maakt, of een van zijn Subcirkels. 
 
-Zodra een Cross Link-Domeinafspraak is aangenomen, kan de Gelinkte Entiteit een vertegenwoordiger aanwijzen om deel te nemen in de Broncirkel onder de voorwaarden van dit Artikel, tenzij er andere voorwaarden zijn gedefinieerd in de Cross Link-Domeinafspraak. 
+Zodra een Cross Link-Domeinafspraak is aangenomen, kan de Gelinkte Entiteit een vertegenwoordiger aanwijzen om deel te nemen in de Doelcirkel onder de voorwaarden van dit Artikel, tenzij er andere voorwaarden zijn gedefinieerd in de Cross Link-Domeinafspraak. 
 
 #### 2.7.1 Cross Link-Rol
 
-Als de Gelinkte Entiteit een Rol is, dan mag die Rol zoals hieronder beschreven deelnemen in de Broncirkel. Dit is de **‘Cross Link-Rol’** en de persoon die deze vervult wordt de **‘Cross Link’**. 
+Als de Gelinkte Entiteit een Rol is, dan mag die Rol zoals hieronder beschreven deelnemen in de Doelcirkel. Dit is de **‘Cross Link-Rol’** en de persoon die deze vervult wordt de **‘Cross Link’**. 
 
 Als de Gelinkte Entiteit een Cirkel of een groep is, dan wordt in plaats daarvan automatisch een nieuwe Cross Link-Rol met een eigen Purpose gecreëerd, welke tot zowel de Gelinkte Identiteit als de Broncirkel behoort, ongeveer zoals een Rep Link. In dit geval heeft de Cross Link-Rol dezelfde Purpose en Verantwoordelijkheden als een Rep Link. Maar waar bij de Rep Link wordt verwezen naar de Cirkel, wordt hier de Gelinkte Identiteit bedoeld en waar wordt verwezen naar de Supercirkel wordt hier de Doelcirkel bedoeld. 
 
